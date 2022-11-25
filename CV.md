@@ -1,6 +1,6 @@
 # Khaled mouhy Al Dine Awad
 
-![This is khaled awad image.](markdown CV/1.jpg "This is khaled awad image.")
+![This is khaled awad image.](1.jpg "This is khaled awad image.")
 
 **Location:** Tripoli-Lebanon  
 **Email:**  awadkhaled.webdev@gmail.com  
@@ -19,15 +19,15 @@ Junior Web Developer specializing in front end development. Experienced with all
 
 # RELEVANT EXPERIENCE (*INTERNSHIPS*)
 
-**Web Developer - 2020** 
+`**Web Developer - 2020**`
 **Freelancing Web Design, Lebanon**
 • Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences. 
 • Develop project concepts and maintain optimal workflow. 
 • Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code. 
 • Carry out quality assurance tests to discover errors and optimize usability.
-**Full Stack Developer – 2022**
+`**Full Stack Developer – 2022**`
 With Codi tech Program (6 months) in process
-**Supervisor – 2022**
+`**Supervisor – 2022**`
 LRI Association ,Tripoli
 
 # Languages and Skills 
